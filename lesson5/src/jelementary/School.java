@@ -1,0 +1,5 @@
+package jelementary;
+
+class School {
+
+}
