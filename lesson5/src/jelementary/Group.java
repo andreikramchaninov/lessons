@@ -2,13 +2,15 @@ package jelementary;
 
 import jelementary.people.*;
 
-class Group {
+public class Group {
 
+  public String name;
   public Student std;
 
-  public Group() {
-
+  public Group(String name) {
+    this.name = name;
   }
 
+  //public void addStudent();
 
 }

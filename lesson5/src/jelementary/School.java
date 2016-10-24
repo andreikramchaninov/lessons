@@ -1,5 +1,5 @@
 package jelementary;
 
-class School {
+public class School {
 
 }
