@@ -7,7 +7,9 @@ class Main {
 
     School sch = new School();
     Student std = new Student();
-    Group grp = new Group();
+    Group grp = new Group("jelementary");
+
+    Init in = new Init();
 
   }
 
