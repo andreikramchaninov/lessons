@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="STableTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-12-05T18:38:00" hostname="Student1-PC" time="0.0">
+  <properties/>
+  <testcase name="test1" classname="STableTest" time="0.0"/>
+  <system-out><![CDATA[10
+1092616192
+48625
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
